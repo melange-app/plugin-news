@@ -1,5 +1,5 @@
 {
-  "id": "ch.airdispat.plugins.news",
+  "id": "com.github.melange-app.plugin-news",
   "name": "News",
   "version": "0.0.1",
   "description": "Quick live tiles for your news pleasure.",
