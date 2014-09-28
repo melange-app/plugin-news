@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Quick live tiles for your news pleasure.",
   "permissions": {
-    "connect": ["http://api.nytimes.com"]
+    "read-message": ["airdispat.ch/news/headline", "airdispat.ch/news/image", "airdispat.ch/news/url"]
   },
   "author": {
     "name": "Hunter Leath",
@@ -15,7 +15,8 @@
       "name": "News Alerts",
       "description": "Get the latest news from several sources delivered straight to your dashboard.",
       "view": "tile.html",
-      "size": "50%x150"
+      "size": "50%x150",
+      "click": true
     }
   },
   "hideSidebar": true,
