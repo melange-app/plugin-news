@@ -1,7 +1,7 @@
 {
   "id": "com.github.melange-app.plugin-news",
   "name": "News",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Quick live tiles for your news pleasure.",
   "permissions": {
     "read-message": ["airdispat.ch/news/headline", "airdispat.ch/news/image", "airdispat.ch/news/url"]
